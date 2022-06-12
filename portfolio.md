@@ -6,10 +6,10 @@ I made this project in June of 2022 using the *Develop in Swift Fundamentals: Xc
 
 Main file code:
 
-<img src="images/Screen Shot 2022-06-12 at 11.37.22 AM.png" width="100"> <img src="images/Screen Shot 2022-06-12 at 11.37.37 AM.png" width="100">
+<img src="images/Screen Shot 2022-06-12 at 11.37.22 AM.png" width="150"> <img src="images/Screen Shot 2022-06-12 at 11.37.37 AM.png" width="150">
 
 Game file code:
 
-<img src="images/Screen Shot 2022-06-12 at 11.37.55 AM.png" width="100">
+<img src="images/Screen Shot 2022-06-12 at 11.37.55 AM.png" width="150">
 
 ## [Home](https://debbiew524.github.io/Debbie-Wang/)
