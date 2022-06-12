@@ -4,5 +4,9 @@ I made this project in June of 2022 using the *Develop in Swift Fundamentals: Xc
 
 <img src="/images/Screen%20Shot%202022-06-12%20at%2011.41.38%20AM.png" width="150">
 <img src="/images/Screen%20Shot%202022-06-12%20at%2011.42.47%20AM.png" width="150">
+<b>
+Main file code:
+<img src="/images/Screen%20Shot%202022-06-12%20at%2011.37.22%20AM.png" width="100">
+<img src="/images/Screen%20Shot%202022-06-12%20at%2011.37.37%20AM.png)" width="100">
      
 ## [Home](https://debbiew524.github.io/Debbie-Wang/)
