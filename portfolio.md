@@ -12,4 +12,4 @@ Game file code:
 
 <img src="images/Screen Shot 2022-06-12 at 11.37.55 AM.png" width="100">
 
-## [Home](https://debbiew524.github.io/Debbie-Wang/)
+### [Home](https://debbiew524.github.io/Debbie-Wang/)
